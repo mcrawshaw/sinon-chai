@@ -31,7 +31,7 @@
   },
   "peerDependencies": {
     "chai": ">=1.9.2 <4",
-    "sinon": "2.0.0-pre.4"
+    "sinon": "2.0.0-pre.5"
   },
   "devDependencies": {
     "chai": "^3.0.0",
